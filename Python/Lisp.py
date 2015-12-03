@@ -9,7 +9,7 @@ for line in f:
 		position += 1
 		if ch is '(':
 			floor +=1
-		elif ch is ')':
+		if ch is ')':
 			floor-=1
 		if floor ==-1 and not first:
 			first = True
