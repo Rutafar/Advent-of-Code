@@ -111,24 +111,4 @@ My take on the advent of code challenges. I will post in Python and Java. This i
     <td>26</td>
     <td></td>
   </tr>
-  <tr>
-    <td>27</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>28</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>29</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>31</td>
-    <td></td>
-  </tr>
 </table> 
