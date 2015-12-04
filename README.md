@@ -21,7 +21,7 @@ My take on the advent of code challenges. I will post in Python and Java. This i
   </tr>
   <tr>
     <td>4</td>
-    <td></td>
+    <td>Hash</td>
   </tr>
   <tr>
     <td>5</td>
