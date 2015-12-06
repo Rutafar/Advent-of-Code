@@ -25,11 +25,11 @@ My take on the advent of code challenges. I will post in Python and Java. This i
   </tr>
   <tr>
     <td>5</td>
-    <td></td>
+    <td>Stringspt1; Stringspt2</td>
   </tr>
   <tr>
     <td>6</td>
-    <td></td>
+    <td>Lightspt1; Lightspt2</td>
   </tr>
   <tr>
     <td>7</td>
