@@ -8,8 +8,8 @@ My take on the advent of code challenges. I will post in Python and Java. This i
 | day 2      |    Wrapping_Paper   |
 | day 3      |    Houses   |
 | day 4      |    Hash   |
-| day 5      |    Strings (part 1 and 2  |
-| day 6      |    Lights (part 1 and 2   |
+| day 5      |    Strings (part 1 and 2)  |
+| day 6      |    Lights (part 1 and 2)   |
 | day 7      |    Wires   |
 | day 8      |    Memory   |
 | day 9      |       |
