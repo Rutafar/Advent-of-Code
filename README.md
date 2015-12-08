@@ -33,7 +33,7 @@ My take on the advent of code challenges. I will post in Python and Java. This i
   </tr>
   <tr>
     <td>7</td>
-    <td></td>
+    <td>Memory</td>
   </tr>
   <tr>
     <td>8</td>
