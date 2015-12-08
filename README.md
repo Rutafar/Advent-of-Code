@@ -2,113 +2,19 @@
 My take on the advent of code challenges. I will post in Python and Java. This is the first time I will be programming in Python so you might find some rookie mistakes.
 
 
- <table>
- <tr>
-   <th>Day</th>
-   <th>Name</th>
- </tr>
- <tr>
-   <td>1</td>
-   <td>Lisp</td>
- </tr>
- <tr>
-    <td>2</td>
-    <td>Wrapping_paper</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Houses</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hash</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Stringspt1; Stringspt2</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Lightspt1; Lightspt2</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>Memory</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>26</td>
-    <td></td>
-  </tr>
-</table> 
+| Day   | Name        |     
+|:---- :| :----------:|
+|1      | Content Cell|
+|2      | Content Cell|
+|3      | Content Cell|
+|4      | Content Cell|
+|5      | Content Cell|
+|6      | Content Cell|
+|7      | Content Cell|
+|8      | Content Cell|
+|9      | Content Cell|
+|10     | Content Cell|
+|11     | Content Cell|
+|12     | Content Cell|
+|13     | Content Cell|
+|14     | Content Cell|
