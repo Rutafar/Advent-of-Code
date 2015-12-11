@@ -29,3 +29,5 @@ My take on the advent of code challenges. I will post in Python and Java. This i
 | day 23      |       |
 | day 24      |       |
 | day 25      |       |
+
+In the challenges that have a sinlge line input (p.e day 11), my input is in the code
