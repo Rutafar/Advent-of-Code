@@ -14,7 +14,7 @@ My take on the advent of code challenges. I will post in Python and Java. This i
 | day 8      |    Memory   |
 | day 9      |       |
 | day 10      |  Look     |
-| day 11      |      |
+| day 11      |    Passwd  |
 | day 12      |       |
 | day 13      |       |
 | day 14      |       |
